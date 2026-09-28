@@ -1,0 +1,12 @@
+{
+  "name": "Chanakya AI",
+  "short_name": "Chanakya",
+  "description": "Personal strategic decision engine inspired by the Arthashastra.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f0d",
+  "theme_color": "#11100d",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

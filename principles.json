@@ -1,0 +1,254 @@
+[
+  {
+    "id": "discipline-before-command",
+    "name": "Govern yourself before governing others",
+    "category": "Self-mastery",
+    "classical_basis": "Arthashastra, Book I — Concerning Discipline",
+    "modern_rule": "Before acting, check anger, ego, fear and impulse. A leader who cannot regulate himself will misread people and misuse authority.",
+    "workplace_use": "Do not make disciplinary, staffing or escalation decisions while emotionally activated.",
+    "ethical_boundary": "Self-control is not emotional suppression; safety or misconduct still requires timely action."
+  },
+  {
+    "id": "learn-from-experts",
+    "name": "Seek experienced counsel",
+    "category": "Learning",
+    "classical_basis": "Arthashastra, Book I — Concerning Discipline",
+    "modern_rule": "Use experienced people as an information advantage, while retaining independent judgment.",
+    "workplace_use": "Before changing a technical process, consult operators, maintenance, quality and engineering where relevant.",
+    "ethical_boundary": "Expertise is evidence, not infallibility."
+  },
+  {
+    "id": "counsel-confidentiality",
+    "name": "Protect unfinished deliberations",
+    "category": "Information",
+    "classical_basis": "Arthashastra, Book I — counsel and deliberation",
+    "modern_rule": "Share sensitive plans on a need-to-know basis until they are ready for responsible communication.",
+    "workplace_use": "Do not casually disclose personnel matters, negotiations, investigations or unapproved plans.",
+    "ethical_boundary": "Never conceal required safety, legal, quality or compliance information."
+  },
+  {
+    "id": "multiple-viewpoints",
+    "name": "Deliberate from more than one viewpoint",
+    "category": "Decision quality",
+    "classical_basis": "Arthashastra, Book I — counsel and ministers",
+    "modern_rule": "Important decisions should be stress-tested from operational, human, financial and long-term perspectives.",
+    "workplace_use": "For a production decision, consider safety, quality, throughput, maintenance and team effects—not only output.",
+    "ethical_boundary": "Consultation should improve judgment, not be used to diffuse accountability."
+  },
+  {
+    "id": "define-objective",
+    "name": "Know the objective before choosing the means",
+    "category": "Strategy",
+    "classical_basis": "Arthashastra, Books VI–VII — state elements and policy choices",
+    "modern_rule": "Separate what you want to achieve from the method you initially prefer.",
+    "workplace_use": "If the objective is reliable procedure compliance, coaching, redesign, training or discipline are alternative means—not the objective itself.",
+    "ethical_boundary": "Objectives must remain lawful and ethically defensible."
+  },
+  {
+    "id": "relative-strength",
+    "name": "Assess relative strength before confrontation",
+    "category": "Power",
+    "classical_basis": "Arthashastra, Books VI–VII — relative strength and policy",
+    "modern_rule": "Map formal authority, expertise, relationships, information, alternatives and constraints before taking a hard position.",
+    "workplace_use": "A title may give formal authority while another person has technical or social influence. Account for both.",
+    "ethical_boundary": "Power analysis is for better decisions, not exploitation."
+  },
+  {
+    "id": "time-place-circumstance",
+    "name": "Timing changes the value of an action",
+    "category": "Timing",
+    "classical_basis": "Arthashastra, Books VII–IX — policy, preparation and campaigns",
+    "modern_rule": "A correct action at the wrong time can still fail. Evaluate readiness, urgency, audience and circumstances.",
+    "workplace_use": "Correct privately when possible; interrupt immediately when safety, food quality or serious risk demands it.",
+    "ethical_boundary": "Strategic timing must not become avoidance of necessary action."
+  },
+  {
+    "id": "information-before-action",
+    "name": "Reduce uncertainty before committing",
+    "category": "Information",
+    "classical_basis": "Arthashastra — extensive emphasis on intelligence and verification",
+    "modern_rule": "When uncertainty is high and delay is affordable, gather facts before escalating or committing.",
+    "workplace_use": "Check trends, records, witnesses and equipment state before assigning blame.",
+    "ethical_boundary": "Do not investigate intrusively or outside legitimate professional boundaries."
+  },
+  {
+    "id": "independent-corroboration",
+    "name": "Corroborate important information",
+    "category": "Information",
+    "classical_basis": "Arthashastra — intelligence systems and cross-checking",
+    "modern_rule": "High-impact claims should not depend on one interested source when independent evidence is available.",
+    "workplace_use": "Verify a process incident using PLC trends, logs, samples, equipment condition and accounts from relevant staff.",
+    "ethical_boundary": "Use legitimate evidence sources; no covert surveillance or privacy violations."
+  },
+  {
+    "id": "interests-not-words",
+    "name": "Analyze interests, not only stated positions",
+    "category": "People",
+    "classical_basis": "Arthashastra, Books VI–VII — alliances and competing interests",
+    "modern_rule": "Ask what incentives, fears, status needs, constraints or goals may sit underneath a person's stated position.",
+    "workplace_use": "Resistance to a change may reflect workload, competence concerns, loss of autonomy or genuine technical objections.",
+    "ethical_boundary": "Treat inferred motives as hypotheses, not facts."
+  },
+  {
+    "id": "sama",
+    "name": "Sama — start with reasoned alignment",
+    "category": "Influence",
+    "classical_basis": "Classical Indian statecraft; conciliatory/persuasive means used throughout Arthashastra traditions",
+    "modern_rule": "Use explanation, listening, shared goals and relationship before coercive measures when the risk allows it.",
+    "workplace_use": "Clarify expectations and the reason behind them before assuming defiance.",
+    "ethical_boundary": "Persuasion must not become deception."
+  },
+  {
+    "id": "dana",
+    "name": "Dana — align incentives",
+    "category": "Influence",
+    "classical_basis": "Classical Indian statecraft; inducement/incentive as a strategic means",
+    "modern_rule": "Make cooperation easier or more worthwhile through recognition, resources, reciprocity, ownership or removal of friction.",
+    "workplace_use": "Give a skilled operator ownership of improving a standard rather than treating expertise as a threat.",
+    "ethical_boundary": "Do not use improper inducements, favoritism or conflicts of interest."
+  },
+  {
+    "id": "bheda",
+    "name": "Bheda — distinguish interests and fault lines",
+    "category": "Influence",
+    "classical_basis": "Classical Indian statecraft; differentiation/division as a strategic means",
+    "modern_rule": "Separate issues, stakeholders and motives so you do not treat a coalition or conflict as one undifferentiated problem.",
+    "workplace_use": "Determine whether resistance is one person's issue, a training gap, a process-design problem or a wider team norm.",
+    "ethical_boundary": "In professional life, use this for stakeholder analysis—not rumor, sabotage or malicious division."
+  },
+  {
+    "id": "danda",
+    "name": "Danda — use legitimate authority proportionally",
+    "category": "Accountability",
+    "classical_basis": "Arthashastra — punishment, enforcement and order",
+    "modern_rule": "When persuasion and correction fail—or risk is serious—use documented, proportionate and legitimate authority.",
+    "workplace_use": "For repeated deliberate non-compliance, move from coaching to formal accountability through proper policy.",
+    "ethical_boundary": "No humiliation, retaliation, threats or disproportionate punishment."
+  },
+  {
+    "id": "asana",
+    "name": "Asana — sometimes the best move is to hold position",
+    "category": "Timing",
+    "classical_basis": "Arthashastra, Book VII — neutrality/remaining quiet as one of the six policies",
+    "modern_rule": "Do not confuse activity with progress. If acting now worsens your position and waiting is safe, preserve options.",
+    "workplace_use": "Avoid reacting to a minor provocation when facts are incomplete and no immediate operational risk exists.",
+    "ethical_boundary": "Waiting is unacceptable when people, safety, compliance or serious harm are at risk."
+  },
+  {
+    "id": "sandhi",
+    "name": "Sandhi — cooperate when cooperation improves position",
+    "category": "Alliances",
+    "classical_basis": "Arthashastra, Book VII — peace/agreement",
+    "modern_rule": "Cooperation can be strategic even when parties do not fully agree.",
+    "workplace_use": "Build workable agreements between production, maintenance and quality around shared outcomes.",
+    "ethical_boundary": "Do not make agreements you cannot honor."
+  },
+  {
+    "id": "vigraha",
+    "name": "Vigraha — confront when continued accommodation costs more",
+    "category": "Conflict",
+    "classical_basis": "Arthashastra, Book VII — conflict/war as a policy option",
+    "modern_rule": "Some conflicts require a clear boundary, disagreement or escalation after softer options are exhausted or urgency is high.",
+    "workplace_use": "Stop unsafe work even if doing so creates interpersonal conflict.",
+    "ethical_boundary": "Professional confrontation means clear boundaries and process—not aggression."
+  },
+  {
+    "id": "yana-preparation",
+    "name": "Yana — prepare before the decisive move",
+    "category": "Preparation",
+    "classical_basis": "Arthashastra, Book VII — marching/preparation as policy",
+    "modern_rule": "Build evidence, allies, resources and alternatives before a high-stakes move.",
+    "workplace_use": "Before proposing a major process change, collect data, expected benefits, risks and implementation requirements.",
+    "ethical_boundary": "Preparation should not become political scheming against people."
+  },
+  {
+    "id": "allies",
+    "name": "Build reliable allies before you need them",
+    "category": "Relationships",
+    "classical_basis": "Arthashastra, Book VI — allies as an element of power",
+    "modern_rule": "Trust and cross-functional relationships are strategic assets created through consistent value and reliability.",
+    "workplace_use": "Maintain good working relationships with operations, maintenance, quality, engineering and management before crises occur.",
+    "ethical_boundary": "Alliances should not become cliques or exclusion."
+  },
+  {
+    "id": "resources",
+    "name": "Resources constrain strategy",
+    "category": "Execution",
+    "classical_basis": "Arthashastra, Books II and VI — treasury, resources and state elements",
+    "modern_rule": "A plan without time, competence, tools, money or capacity is not yet a strategy.",
+    "workplace_use": "Before committing to output or maintenance work, verify staffing, materials, equipment state and time.",
+    "ethical_boundary": "Do not demand impossible outcomes and transfer the cost to subordinates."
+  },
+  {
+    "id": "controls-corruption",
+    "name": "Trust people; design controls anyway",
+    "category": "Governance",
+    "classical_basis": "Arthashastra, Book II — administration, accounting and misappropriation controls",
+    "modern_rule": "Good systems reduce dependence on perfect memory or perfect character.",
+    "workplace_use": "Use logs, verification, reconciliation and clear ownership for critical tasks.",
+    "ethical_boundary": "Controls should be proportionate and transparent, not a culture of suspicion."
+  },
+  {
+    "id": "roles-accountability",
+    "name": "Match responsibility with accountability",
+    "category": "Governance",
+    "classical_basis": "Arthashastra, Book II — duties of superintendents",
+    "modern_rule": "Assign clear ownership, expectations and verification for important work.",
+    "workplace_use": "If everyone is responsible for a check, often nobody is. Name the owner and the evidence of completion.",
+    "ethical_boundary": "Accountability requires adequate authority, training and resources."
+  },
+  {
+    "id": "prevent-small-problems",
+    "name": "Treat small vulnerabilities before they compound",
+    "category": "Risk",
+    "classical_basis": "Arthashastra, Book VIII — vices and calamities",
+    "modern_rule": "Weak signals, recurring deviations and unresolved friction deserve early attention before they become crises.",
+    "workplace_use": "Repeated minor equipment alarms or procedural workarounds may signal a larger reliability or training issue.",
+    "ethical_boundary": "Do not catastrophize; prioritize by evidence and consequence."
+  },
+  {
+    "id": "scenario-planning",
+    "name": "Plan for deterioration, stability and progress",
+    "category": "Risk",
+    "classical_basis": "Arthashastra, Book VII — deterioration, stagnation and progress",
+    "modern_rule": "For major choices, examine best case, base case and downside case before committing.",
+    "workplace_use": "Ask what you will do if the production plan works, partially works, or fails.",
+    "ethical_boundary": "Scenario planning should guide preparedness, not paralysis."
+  },
+  {
+    "id": "second-order",
+    "name": "Judge repeated consequences, not only immediate wins",
+    "category": "Long-term thinking",
+    "classical_basis": "Modern adaptation of Arthashastra's sustained emphasis on acquisition and preservation",
+    "modern_rule": "Ask what happens if this decision pattern is repeated ten times.",
+    "workplace_use": "A shortcut that saves ten minutes today may normalize a weak standard across the team.",
+    "ethical_boundary": "Long-term strategy does not justify present unethical conduct."
+  },
+  {
+    "id": "reputation-trust",
+    "name": "Preserve credibility as strategic capital",
+    "category": "Relationships",
+    "classical_basis": "Modern adaptation from Arthashastra's treatment of agreements, ministers and alliances",
+    "modern_rule": "Your future influence depends heavily on whether people expect your words, standards and commitments to be reliable.",
+    "workplace_use": "Be consistent between what you demand from others and what you tolerate from yourself.",
+    "ethical_boundary": "Reputation management must not replace truth or accountability."
+  },
+  {
+    "id": "welfare-legitimacy",
+    "name": "Leadership succeeds through the welfare of those governed",
+    "category": "Leadership",
+    "classical_basis": "Arthashastra, Book I — ruler's interest linked to subjects' welfare",
+    "modern_rule": "Sustainable leadership improves the system for the people doing the work, not merely the leader's status.",
+    "workplace_use": "Ask whether a decision improves safety, clarity, capability and fair conditions while meeting business needs.",
+    "ethical_boundary": "Team welfare and organizational duty must be balanced; neither is a license to ignore the other."
+  },
+  {
+    "id": "adapt-strategy",
+    "name": "Do not worship one tactic",
+    "category": "Strategy",
+    "classical_basis": "Arthashastra, Book VII — six policies vary with conditions",
+    "modern_rule": "The right strategy depends on relative strength, timing, information, stakes and alternatives.",
+    "workplace_use": "A manager who only persuades becomes ineffective; one who only disciplines becomes feared. Choose based on conditions.",
+    "ethical_boundary": "Adaptability does not mean abandoning principles."
+  }
+]

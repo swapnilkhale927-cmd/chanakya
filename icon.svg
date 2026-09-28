@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#11100d"/>
+  <circle cx="256" cy="256" r="168" fill="none" stroke="#e7b84a" stroke-width="18"/>
+  <circle cx="256" cy="256" r="24" fill="#e7b84a"/>
+  <g stroke="#e7b84a" stroke-width="12" stroke-linecap="round">
+    <path d="M256 88v92"/><path d="M256 332v92"/><path d="M88 256h92"/><path d="M332 256h92"/>
+    <path d="M137 137l65 65"/><path d="M310 310l65 65"/><path d="M375 137l-65 65"/><path d="M202 310l-65 65"/>
+  </g>
+  <text x="256" y="290" text-anchor="middle" font-family="serif" font-size="148" font-weight="700" fill="#f5d98d">च</text>
+</svg>

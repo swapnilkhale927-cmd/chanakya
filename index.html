@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#11100d" />
+  <title>Chanakya — Personal Strategic Intelligence</title>
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="mark">च</div>
+      <div>
+        <strong>CHANAKYA</strong>
+        <span>Personal Strategic Intelligence</span>
+      </div>
+    </div>
+    <button id="lockBtn" class="ghost small">🔐 Lock / Access</button>
+  </header>
+
+  <main class="shell">
+    <nav class="tabs" aria-label="Main navigation">
+      <button class="tab active" data-view="analyze">Analyze</button>
+      <button class="tab" data-view="cases">Cases</button>
+      <button class="tab" data-view="people">People</button>
+      <button class="tab" data-view="principles">Principles</button>
+    </nav>
+
+    <section id="analyze" class="view active">
+      <div class="hero">
+        <p class="eyebrow">DECISION ENGINE</p>
+        <h1>What are you dealing with?</h1>
+        <p>Describe the situation as it happened. The engine separates facts, interests, power, timing and consequences before recommending a move.</p>
+      </div>
+
+      <div class="panel">
+        <div class="mode-grid" id="modeGrid">
+          <button class="mode active" data-mode="professional"><span>💼</span><b>Professional</b><small>Leadership, conflict, career</small></button>
+          <button class="mode" data-mode="wealth"><span>💰</span><b>Wealth</b><small>Business, deals, money</small></button>
+          <button class="mode" data-mode="personal"><span>🧠</span><b>Personal</b><small>Relationships, decisions</small></button>
+        </div>
+
+        <label>Situation
+          <textarea id="situation" rows="7" placeholder="Example: An experienced operator challenged my decision in front of the team. I want to keep the relationship productive without making public challenges the norm..."></textarea>
+        </label>
+        <label>Your objective <span class="muted">(optional)</span>
+          <input id="objective" placeholder="What outcome do you actually want?" />
+        </label>
+        <label>Extra context <span class="muted">(optional)</span>
+          <textarea id="context" rows="3" placeholder="Constraints, history, people involved, deadlines, what you have already tried..."></textarea>
+        </label>
+        <button id="analyzeBtn" class="primary">⚔️ Analyze strategically</button>
+        <p id="status" class="status"></p>
+      </div>
+
+      <section id="result" class="result hidden"></section>
+    </section>
+
+    <section id="cases" class="view">
+      <div class="section-head"><div><p class="eyebrow">DECISION JOURNAL</p><h2>Cases</h2></div></div>
+      <div id="casesList" class="stack"></div>
+    </section>
+
+    <section id="people" class="view">
+      <div class="section-head"><div><p class="eyebrow">CONTEXT MEMORY</p><h2>People</h2></div></div>
+      <div class="panel">
+        <div class="grid2">
+          <label>Name<input id="personName" placeholder="Name or nickname" /></label>
+          <label>Role / relationship<input id="personRole" placeholder="Operator, manager, friend..." /></label>
+        </div>
+        <label>Notes<textarea id="personNotes" rows="4" placeholder="Observed strengths, working style, history, what matters to them. Keep assumptions clearly labeled."></textarea></label>
+        <button id="addPersonBtn" class="primary">Add person</button>
+      </div>
+      <div id="peopleList" class="stack"></div>
+    </section>
+
+    <section id="principles" class="view">
+      <div class="section-head"><div><p class="eyebrow">KNOWLEDGE BASE</p><h2>Principles</h2></div></div>
+      <div class="notice">V1 uses an Arthashastra-centered library plus clearly labeled modern adaptations. These are decision rules—not fake quotations.</div>
+      <div id="principlesList" class="stack"></div>
+    </section>
+  </main>
+
+  <dialog id="passwordDialog">
+    <form method="dialog" class="dialog-card login-card" id="passwordForm">
+      <div class="login-mark">च</div>
+      <p class="eyebrow">PRIVATE SYSTEM</p>
+      <h3>CHANAKYA</h3>
+      <p>Personal Strategic Intelligence</p>
+      <input id="passwordInput" type="password" autocomplete="current-password" placeholder="Password" />
+      <div class="dialog-actions">
+        <button value="default" class="primary" id="savePasswordBtn">Enter</button>
+      </div>
+      <small class="muted">Your OpenAI key stays on the server. The password is kept only for this browser session.</small>
+    </form>
+  </dialog>
+
+  <script src="/app.js" type="module"></script>
+</body>
+</html>
